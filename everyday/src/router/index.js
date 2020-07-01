@@ -38,6 +38,7 @@ Vue.use(VueRouter)
     name: 'Practice',
     component: Practice,
     meta:{
+      name:"练习",
       isShowTabbar:true,
     }
   },
